@@ -1,0 +1,47 @@
+        .Supervisior {
+            background-color: rgb(57, 57, 228);
+            padding-top: 15px;
+            margin-top: 1px;
+        }
+        
+        .yazi {
+            color: aliceblue;
+            padding: 8px;
+            padding-bottom: 40px;
+            font-size: 18px;
+            margin-left: 10px;
+            height: 35px;
+            margin-top: -20px;
+        }
+        
+        header {
+            position: relative;
+            padding: 0;
+            width: 100%;
+        }
+        
+        .red-star {
+            color: red;
+            font-size: 16px;
+        }
+        
+        .select {
+            padding: 3px;
+        }
+        
+        .country {
+            margin-left: 116px;
+        }
+        
+        .mail {
+            margin-left: 135px;
+        }
+        
+        .fla {
+            margin-left: 116px;
+        }
+        
+        .qwer {
+            display: flex;
+            padding-right: 21px;
+        }

@@ -1,0 +1,5 @@
+console.log(typeof("Hello world"))
+console.log(typeof(22))
+console.log(typeof(true))
+console.log(typeof(null))
+console.log(typeof(undefined))
