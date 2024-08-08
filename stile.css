@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.Supervisior {
+    background-color: rgb(57, 57, 228);
+    border-bottom: 100px;
+    margin-bottom: 10px;
+}
+
+.yazi {
+    color: aliceblue;
+    padding: 9px;
+    font-size: 20px;
+    margin-left: 100px;
+    height: 35px;
+}
+
+header {
+    top: -15px;
+    position: relative;
+    padding: 0;
+    width: 100%;
+}
+
+.forms {
+    padding: 12px;
+    font-size: 20px;
+    display: grid;
+    text-align: center;
+}
+
+.register_alani {
+    background-color: blanchedalmond;
+    margin-top: 300px;
+    height: 80px;
+    text-align: center;
+    margin: 300px -20px -20px;
+    padding: 10px;
+}
+
+.Register {
+    display: inline-block;
+    padding: 30px;
+    margin-right: 20px;
+}
+
+.Loginpage {
+    display: inline-block;
+}
+
+.red-star {
+    color: red;
+    font-size: 16px;
+}
+
+.form-group {
+    width: 100%;
+    padding-right: 500px;
+    padding-top: -20px;
+    margin-top: -20px;
+    margin-left: 70px;
+}
+
+.Apply {
+    margin: 0px 0px 10px 30px;
+    padding: 0px 800px 5px 0px;
+}
+
+.email {
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 90px;
+}
+
+.gmail {
+    margin: 0px 0px 10px 34px;
+    padding: 0px 800px 5px 0px;
+}
+
+.name {
+    margin: 0px 0px 0px 30px;
+    padding: 0px 700px 5px 0px;
+}
